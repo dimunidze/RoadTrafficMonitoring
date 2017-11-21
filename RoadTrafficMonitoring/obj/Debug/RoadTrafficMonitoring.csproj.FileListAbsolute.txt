@@ -1,0 +1,10 @@
+c:\users\users\documents\visual studio 2015\Projects\RoadTrafficMonitoring\RoadTrafficMonitoring\bin\Debug\RoadTrafficMonitoring.exe
+c:\users\users\documents\visual studio 2015\Projects\RoadTrafficMonitoring\RoadTrafficMonitoring\bin\Debug\RoadTrafficMonitoring.pdb
+c:\users\users\documents\visual studio 2015\Projects\RoadTrafficMonitoring\RoadTrafficMonitoring\obj\Debug\RoadTrafficMonitoring.csprojResolveAssemblyReference.cache
+c:\users\users\documents\visual studio 2015\Projects\RoadTrafficMonitoring\RoadTrafficMonitoring\obj\Debug\RoadTrafficMonitoring.Form1.resources
+c:\users\users\documents\visual studio 2015\Projects\RoadTrafficMonitoring\RoadTrafficMonitoring\obj\Debug\RoadTrafficMonitoring.Properties.Resources.resources
+c:\users\users\documents\visual studio 2015\Projects\RoadTrafficMonitoring\RoadTrafficMonitoring\obj\Debug\RoadTrafficMonitoring.csproj.GenerateResource.Cache
+c:\users\users\documents\visual studio 2015\Projects\RoadTrafficMonitoring\RoadTrafficMonitoring\obj\Debug\RoadTrafficMonitoring.exe
+c:\users\users\documents\visual studio 2015\Projects\RoadTrafficMonitoring\RoadTrafficMonitoring\obj\Debug\RoadTrafficMonitoring.pdb
+C:\Users\dimunidze\Desktop\laba2\RoadTrafficMonitoring\obj\Debug\RoadTrafficMonitoring.exe
+C:\Users\dimunidze\Desktop\laba2\RoadTrafficMonitoring\obj\Debug\RoadTrafficMonitoring.pdb
